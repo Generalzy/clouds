@@ -1,7 +1,5 @@
 ## Golang基础
 
-> 来源Bilibili IT营 大地老师学习视频：[点我传送](https://www.bilibili.com/video/BV14T4y1g7h9)
-
 - [Go语言的安装](./Golang基础/0_Go语言的安装)
 - [Go语言发展简史](./Golang基础/1_Go语言发展简史)
 - [Go的变量](./Golang基础/2_Go的变量)
